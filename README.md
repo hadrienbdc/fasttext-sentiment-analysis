@@ -2,5 +2,5 @@
 
 * Base pipeline to train deep learning model for sentiment analysis.
 
-* Model paper (Multiple size kernel CNN with FastText Embeddings):
+* Model paper (Multiple kernel size CNN with FastText Embeddings):
 https://www.aclweb.org/anthology/S17-2094/
