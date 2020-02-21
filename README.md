@@ -1,2 +1,6 @@
-# fasttext-sentiment-analysis
-Sentiment analysis using fastText
+# Sentiment analysis using fastText embeddings with tensorflow 2.0 
+
+* Base pipeline to train deep learning model for sentiment analysis.
+
+* Model paper (Multiple size kernel CNN with FastText Embeddings):
+https://www.aclweb.org/anthology/S17-2094/
